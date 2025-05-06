@@ -1,0 +1,5506 @@
+# 2023-05-07 18:59:25.746237
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda x: ys",
+            "lambda x: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-07 19:03:24.211954
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda x: ys",
+            "lambda x: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-07 19:04:18.291718
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda x: ys",
+            "lambda x: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-07 19:06:27.572891
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda x: ys",
+            "lambda x: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:10:30.456469
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:12:12.401952
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-07 19:12:29.168484
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:15:10.297667
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:15:47.106180
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:16:49.342964
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:20:21.184127
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:23:51.692709
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 0
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-07 19:24:07.671224
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:25:44.445713
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:27:16.364336
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:28:26.846501
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:28:51.726937
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:34:49.348149
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:35:45.446731
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:36:09.621572
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:36:39.565693
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:36:52.731366
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-09
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.623436847584772e+22
+, rho = 1.25# 2023-05-07 19:37:37.706066
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-07 19:37:59.266667
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-07 19:38:27.325438
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-07 19:39:03.238409
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-07 19:39:22.925668
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 11:06:01.307892
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 13:29:48.084529
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 14:10:29.126541
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 14:10:35.168166
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-09 14:11:22.351666
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 2.842170684034479e-07
+, rho = 1.25# 2023-05-09 14:11:43.841509
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 2.842170684034479e-07
+, rho = 1.25# 2023-05-09 14:16:47.530442
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 2.842170684034479e-07
+, rho = 1.25# 2023-05-09 14:18:15.242171
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 2.842170684034479e-07
+, rho = 1.25# 2023-05-09 14:27:25.343874
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 14:28:12.280076
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-09 14:28:45.431456
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-09 14:28:57.601114
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 14:29:37.140040
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 14:39:01.286671
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 14:39:41.991643
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 14:40:46.590877
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 14:41:43.478999
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 16:06:58.723284
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.707460363558430e+01
+, rho = 1.25# 2023-05-09 16:07:03.843427
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.707460363558430e+01
+, rho = 1.25# 2023-05-09 16:52:21.790525
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.707460363558430e+01
+, rho = 1.25# 2023-05-09 16:52:28.905676
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.707460363558430e+01
+, rho = 1.25# 2023-05-09 16:57:33.838668
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+# 2023-05-09 16:58:35.181849
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.211833104182927e+02
+, rho = 0.1# 2023-05-09 16:58:36.545595
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.2,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.262668924944492e+01
+, rho = 0.2# 2023-05-09 16:58:37.846605
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.3,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.154059996198605e+02
+, rho = 0.3# 2023-05-09 16:58:38.992856
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.4,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.316697246017794e+02
+, rho = 0.4# 2023-05-09 16:58:40.359406
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.5,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.295355842960992e+02
+, rho = 0.5# 2023-05-09 16:58:41.524356
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.6,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.622064065554727e+01
+, rho = 0.6# 2023-05-09 16:58:42.570069
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.7,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.026463194377424e+02
+, rho = 0.7# 2023-05-09 16:58:43.655284
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.8,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.936682703802641e+01
+, rho = 0.8# 2023-05-09 16:58:45.003727
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.9,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.120947952825293e+02
+, rho = 0.9# 2023-05-09 16:58:46.193172
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1000,
+        "error": 1000
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.179610669400518e+02
+, rho = 1# 2023-05-09 17:01:31.852608
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 2500,
+        "error": 2500
+    }
+}
+# 2023-05-09 17:02:18.255561
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 2500,
+        "error": 2500
+    }
+}
+# 2023-05-09 17:03:29.048048
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.133543052131131e+02
+, rho = 0.1# 2023-05-09 17:03:30.514853
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.2,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.014645829071526e+02
+, rho = 0.2# 2023-05-09 17:03:31.622654
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.3,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.120782117141930e+02
+, rho = 0.3# 2023-05-09 17:03:32.737935
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.4,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.182043359683077e+02
+, rho = 0.4# 2023-05-09 17:03:33.960392
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.5,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.293336575341050e+02
+, rho = 0.5# 2023-05-09 17:03:35.230840
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.6,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.351132372688478e+01
+, rho = 0.6# 2023-05-09 17:03:36.799125
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.7,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.210027810662110e+02
+, rho = 0.7# 2023-05-09 17:03:38.005743
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.8,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.699653735457206e+01
+, rho = 0.8# 2023-05-09 17:03:39.397326
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.9,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.253142292079631e+02
+, rho = 0.9# 2023-05-09 17:03:40.695224
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.227003227110343e+02
+, rho = 1# 2023-05-09 17:03:42.000657
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.083872736513020e+02
+, rho = 1.1# 2023-05-09 17:03:43.488280
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.707460363558430e+01
+, rho = 1.25# 2023-05-09 17:06:31.952735
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 10,
+        "end_node": 500,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 10, D = 6.000000000000000, RMS = 1.282039201718301e+02
+, rho = 1.25N = 11, D = 6.000000000000000, RMS = 1.375460211382487e+02
+, rho = 1.25N = 12, D = 6.000000000000000, RMS = 1.551711799151251e+197
+, rho = 1.25N = 13, D = 6.000000000000000, RMS = 5.244294046528989e+216
+, rho = 1.25N = 14, D = 6.000000000000000, RMS = 1.469349311500889e+02
+, rho = 1.25N = 15, D = 6.000000000000000, RMS = 1.373721344545587e+02
+, rho = 1.25N = 16, D = 6.000000000000000, RMS = 1.300308586260532e+02
+, rho = 1.25N = 17, D = 6.000000000000000, RMS = 1.577076929737469e+02
+, rho = 1.25N = 18, D = 6.000000000000000, RMS = 1.479418525543274e+02
+, rho = 1.25N = 19, D = 6.000000000000000, RMS = 1.186143859310387e+02
+, rho = 1.25N = 20, D = 6.000000000000000, RMS = 1.503059186720576e+02
+, rho = 1.25N = 21, D = 6.000000000000000, RMS = 1.291933049587601e+02
+, rho = 1.25N = 22, D = 6.000000000000000, RMS = 1.406470782993370e+02
+, rho = 1.25N = 23, D = 6.000000000000000, RMS = 1.465711740661556e+02
+, rho = 1.25N = 24, D = 6.000000000000000, RMS = 1.245449893126096e+02
+, rho = 1.25N = 25, D = 6.000000000000000, RMS = 1.530528465397190e+02
+, rho = 1.25N = 26, D = 6.000000000000000, RMS = 1.475695908696252e+02
+, rho = 1.25N = 27, D = 6.000000000000000, RMS = 1.320833719816638e+02
+, rho = 1.25N = 28, D = 6.000000000000000, RMS = 1.338653466024876e+02
+, rho = 1.25N = 29, D = 6.000000000000000, RMS = 1.127207760412232e+02
+, rho = 1.25N = 30, D = 6.000000000000000, RMS = 1.211220060062431e+02
+, rho = 1.25N = 31, D = 6.000000000000000, RMS = 1.524599053486581e+02
+, rho = 1.25N = 32, D = 6.000000000000000, RMS = 1.622005340834771e+02
+, rho = 1.25N = 33, D = 6.000000000000000, RMS = 1.344354482572710e+02
+, rho = 1.25N = 34, D = 6.000000000000000, RMS = 1.035535052373627e+72
+, rho = 1.25N = 35, D = 6.000000000000000, RMS = 4.296469707947637e+03
+, rho = 1.25N = 36, D = 6.000000000000000, RMS = 1.428720405612187e+02
+, rho = 1.25N = 37, D = 6.000000000000000, RMS = 1.457118572161661e+02
+, rho = 1.25N = 38, D = 6.000000000000000, RMS = 1.557591965822259e+02
+, rho = 1.25N = 39, D = 6.000000000000000, RMS = 1.170834320384358e+02
+, rho = 1.25N = 40, D = 6.000000000000000, RMS = 1.243669224236831e+02
+, rho = 1.25N = 41, D = 6.000000000000000, RMS = 1.015800477918052e+02
+, rho = 1.25N = 42, D = 6.000000000000000, RMS = 1.943813855701060e+02
+, rho = 1.25N = 43, D = 6.000000000000000, RMS = 1.207322059204951e+02
+, rho = 1.25N = 44, D = 6.000000000000000, RMS = 3.576297480215239e+161
+, rho = 1.25N = 45, D = 6.000000000000000, RMS = 1.747829984081709e+02
+, rho = 1.25N = 46, D = 6.000000000000000, RMS = 1.105698103908269e+02
+, rho = 1.25N = 47, D = 6.000000000000000, RMS = 1.275021403916100e+02
+, rho = 1.25N = 48, D = 6.000000000000000, RMS = 1.372907506831933e+02
+, rho = 1.25N = 49, D = 6.000000000000000, RMS = 1.426146072347799e+02
+, rho = 1.25N = 50, D = 6.000000000000000, RMS = 9.588264297034368e+01
+, rho = 1.25N = 51, D = 6.000000000000000, RMS = 1.657954093559939e+02
+, rho = 1.25N = 52, D = 6.000000000000000, RMS = 1.364668106340947e+02
+, rho = 1.25N = 53, D = 6.000000000000000, RMS = 1.471183179196263e+02
+, rho = 1.25N = 54, D = 6.000000000000000, RMS = 1.408194681375415e+02
+, rho = 1.25N = 55, D = 6.000000000000000, RMS = 1.117989687639620e+02
+, rho = 1.25N = 56, D = 6.000000000000000, RMS = 1.583240445892313e+02
+, rho = 1.25N = 57, D = 6.000000000000000, RMS = 1.554797494319400e+02
+, rho = 1.25N = 58, D = 6.000000000000000, RMS = 1.513302870049806e+02
+, rho = 1.25N = 59, D = 6.000000000000000, RMS = 1.441454207791507e+02
+, rho = 1.25N = 60, D = 6.000000000000000, RMS = 4.148308958638527e+09
+, rho = 1.25N = 61, D = 6.000000000000000, RMS = 1.713904367033921e+02
+, rho = 1.25N = 62, D = 6.000000000000000, RMS = 1.366292870142928e+02
+, rho = 1.25N = 63, D = 6.000000000000000, RMS = 1.400683213652822e+02
+, rho = 1.25N = 64, D = 6.000000000000000, RMS = 1.540842072962758e+02
+, rho = 1.25N = 65, D = 6.000000000000000, RMS = 1.317308449927031e+02
+, rho = 1.25N = 66, D = 6.000000000000000, RMS = 1.277131684950256e+02
+, rho = 1.25N = 67, D = 6.000000000000000, RMS = 1.522946030527708e+02
+, rho = 1.25N = 68, D = 6.000000000000000, RMS = 1.210866792618779e+02
+, rho = 1.25N = 69, D = 6.000000000000000, RMS = 1.001758158526609e+02
+, rho = 1.25N = 70, D = 6.000000000000000, RMS = 1.272418812006948e+02
+, rho = 1.25N = 71, D = 6.000000000000000, RMS = 9.020204079669151e+01
+, rho = 1.25N = 72, D = 6.000000000000000, RMS = 1.385902841340416e+02
+, rho = 1.25N = 73, D = 6.000000000000000, RMS = 1.292440187456729e+02
+, rho = 1.25N = 74, D = 6.000000000000000, RMS = 3.443924736335713e+127
+, rho = 1.25N = 75, D = 6.000000000000000, RMS = 1.152105586529464e+02
+, rho = 1.25N = 76, D = 6.000000000000000, RMS = 9.378360193786810e+01
+, rho = 1.25N = 77, D = 6.000000000000000, RMS = 1.371147346509488e+02
+, rho = 1.25N = 78, D = 6.000000000000000, RMS = 1.437280102115886e+02
+, rho = 1.25N = 79, D = 6.000000000000000, RMS = 1.034505156593323e+54
+, rho = 1.25N = 80, D = 6.000000000000000, RMS = 1.031118555660638e+02
+, rho = 1.25N = 81, D = 6.000000000000000, RMS = 1.304738983539314e+02
+, rho = 1.25N = 82, D = 6.000000000000000, RMS = 1.042213719330287e+02
+, rho = 1.25N = 83, D = 6.000000000000000, RMS = 1.511046260106585e+02
+, rho = 1.25N = 84, D = 6.000000000000000, RMS = 1.180762297408227e+02
+, rho = 1.25N = 85, D = 6.000000000000000, RMS = 1.375316197847900e+02
+, rho = 1.25N = 86, D = 6.000000000000000, RMS = 3.309903559346764e+124
+, rho = 1.25N = 87, D = 6.000000000000000, RMS = 1.347693425637734e+02
+, rho = 1.25N = 88, D = 6.000000000000000, RMS = 7.028977389648168e+01
+, rho = 1.25N = 89, D = 6.000000000000000, RMS = 1.365916390987112e+02
+, rho = 1.25N = 90, D = 6.000000000000000, RMS = 8.506381769823663e+01
+, rho = 1.25N = 91, D = 6.000000000000000, RMS = 1.284547266112518e+02
+, rho = 1.25N = 92, D = 6.000000000000000, RMS = 1.157583264054889e+02
+, rho = 1.25N = 93, D = 6.000000000000000, RMS = 1.584842334901518e+02
+, rho = 1.25N = 94, D = 6.000000000000000, RMS = 1.340010173894180e+02
+, rho = 1.25N = 95, D = 6.000000000000000, RMS = 1.239888275437971e+02
+, rho = 1.25N = 96, D = 6.000000000000000, RMS = 1.187221778716843e+02
+, rho = 1.25N = 97, D = 6.000000000000000, RMS = 2.559730088899560e+289
+, rho = 1.25N = 98, D = 6.000000000000000, RMS = 4.209120455905140e+52
+, rho = 1.25N = 99, D = 6.000000000000000, RMS = 1.333459831863391e+02
+, rho = 1.25N = 100, D = 6.000000000000000, RMS = 1.055728223726614e+02
+, rho = 1.25N = 101, D = 6.000000000000000, RMS = 3.865914785955771e+92
+, rho = 1.25N = 102, D = 6.000000000000000, RMS = 1.501504859694582e+02
+, rho = 1.25N = 103, D = 6.000000000000000, RMS = 1.566892986645629e+02
+, rho = 1.25N = 104, D = 6.000000000000000, RMS = 1.323407002035090e+02
+, rho = 1.25N = 105, D = 6.000000000000000, RMS = 1.481283610701246e+02
+, rho = 1.25N = 106, D = 6.000000000000000, RMS = 9.676412946211171e+01
+, rho = 1.25N = 107, D = 6.000000000000000, RMS = 1.256397608671149e+02
+, rho = 1.25N = 108, D = 6.000000000000000, RMS = 3.860166998350765e+125
+, rho = 1.25N = 109, D = 6.000000000000000, RMS = 1.343755751304658e+02
+, rho = 1.25N = 110, D = 6.000000000000000, RMS = 1.159649885187723e+02
+, rho = 1.25N = 111, D = 6.000000000000000, RMS = 1.211990365038359e+02
+, rho = 1.25N = 112, D = 6.000000000000000, RMS = 1.300395952626680e+02
+, rho = 1.25N = 113, D = 6.000000000000000, RMS = 1.135201437355390e+02
+, rho = 1.25N = 114, D = 6.000000000000000, RMS = 8.574784141573073e+01
+, rho = 1.25N = 115, D = 6.000000000000000, RMS = 1.003010830887953e+02
+, rho = 1.25N = 116, D = 6.000000000000000, RMS = 1.141713897890997e+02
+, rho = 1.25N = 117, D = 6.000000000000000, RMS = 1.168806859657267e+02
+, rho = 1.25N = 118, D = 6.000000000000000, RMS = 1.119885742160439e+02
+, rho = 1.25N = 119, D = 6.000000000000000, RMS = 1.200648477463047e+02
+, rho = 1.25N = 120, D = 6.000000000000000, RMS = 1.193804241153786e+02
+, rho = 1.25N = 121, D = 6.000000000000000, RMS = 1.377010315049735e+02
+, rho = 1.25N = 122, D = 6.000000000000000, RMS = 1.407874537195122e+02
+, rho = 1.25N = 123, D = 6.000000000000000, RMS = 1.434946814366205e+02
+, rho = 1.25N = 124, D = 6.000000000000000, RMS = 1.246650600560531e+02
+, rho = 1.25N = 125, D = 6.000000000000000, RMS = 1.219824472990831e+02
+, rho = 1.25N = 126, D = 6.000000000000000, RMS = 1.226839725325680e+02
+, rho = 1.25# 2023-05-09 17:10:16.730679
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 50,
+        "end_node": 600,
+        "step": 50,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 50, D = 6.000000000000000, RMS = 9.588264297034368e+01
+, rho = 1.25N = 100, D = 6.000000000000000, RMS = 1.055728223726614e+02
+, rho = 1.25N = 150, D = 6.000000000000000, RMS = 1.298511840678587e+02
+, rho = 1.25N = 200, D = 6.000000000000000, RMS = 1.486862306892169e+02
+, rho = 1.25N = 250, D = 6.000000000000000, RMS = 1.333839291159885e+02
+, rho = 1.25N = 300, D = 6.000000000000000, RMS = 9.707460363558430e+01
+, rho = 1.25N = 350, D = 6.000000000000000, RMS = 1.168836399819708e+02
+, rho = 1.25N = 400, D = 6.000000000000000, RMS = 1.139965356587422e+02
+, rho = 1.25N = 450, D = 6.000000000000000, RMS = 1.164201045824510e+02
+, rho = 1.25N = 500, D = 6.000000000000000, RMS = 1.208073546562982e+02
+, rho = 1.25N = 550, D = 6.000000000000000, RMS = 8.025201419448643e+01
+, rho = 1.25N = 600, D = 6.000000000000000, RMS = 9.176025665818879e+01
+, rho = 1.25# 2023-05-09 17:14:31.534320
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x:6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.707460363558430e+01
+, rho = 1.25# 2023-05-09 17:14:33.408802
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x:10",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 10.000000000000000, RMS = 1.112895227697657e+02
+, rho = 1.25# 2023-05-09 17:14:34.666115
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x:50",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 50.000000000000000, RMS = 1.090736634669056e+02
+, rho = 1.25# 2023-05-09 17:14:36.098642
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x:100",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 100.000000000000000, RMS = 7.797557399906333e+01
+, rho = 1.25# 2023-05-09 18:09:02.628983
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.707460363558430e+01
+, rho = 1.25# 2023-05-09 18:09:09.588667
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 18:15:23.009426
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.163693129041653e+02
+, rho = 1.25# 2023-05-09 19:20:51.759508
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.142436935605310e+02
+, rho = 1.25# 2023-05-09 19:20:57.725250
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.142436935605310e+02
+, rho = 1.25# 2023-05-10 11:20:03.257581
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.142436935605310e+02
+, rho = 1.25# 2023-05-10 11:20:10.097513
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.142436935605310e+02
+, rho = 1.25# 2023-05-10 11:20:42.416754
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.089708034844998e+02
+, rho = 0.1# 2023-05-10 11:20:44.208073
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.2,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.044447037176827e+02
+, rho = 0.2# 2023-05-10 11:20:46.065566
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.3,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.144345745781411e+02
+, rho = 0.3# 2023-05-10 11:20:47.840604
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.4,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.035403103076266e+02
+, rho = 0.4# 2023-05-10 11:20:49.623689
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.5,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.048231714966742e+02
+, rho = 0.5# 2023-05-10 11:20:51.200110
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.6,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.045056079726766e+02
+, rho = 0.6# 2023-05-10 11:20:52.927908
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.7,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.028102672807078e+02
+, rho = 0.7# 2023-05-10 11:20:54.662360
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.8,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.014223039687393e+02
+, rho = 0.8# 2023-05-10 11:20:56.353829
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.9,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.150535942712785e+02
+, rho = 0.9# 2023-05-10 11:20:58.189040
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.235390606346292e+01
+, rho = 1# 2023-05-10 11:20:59.941459
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.061671127509161e+02
+, rho = 1.1# 2023-05-10 11:21:01.681291
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.142436935605310e+02
+, rho = 1.25# 2023-05-10 11:21:03.322624
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 50,
+        "end_node": 600,
+        "step": 50,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 50, D = 6.000000000000000, RMS = 1.215592856357441e+02
+, rho = 1.25N = 100, D = 6.000000000000000, RMS = 1.348903022537059e+02
+, rho = 1.25N = 150, D = 6.000000000000000, RMS = 1.185701572601983e+02
+, rho = 1.25N = 200, D = 6.000000000000000, RMS = 1.466319394256653e+02
+, rho = 1.25N = 250, D = 6.000000000000000, RMS = 1.150878441399385e+02
+, rho = 1.25N = 300, D = 6.000000000000000, RMS = 1.142436935605310e+02
+, rho = 1.25N = 350, D = 6.000000000000000, RMS = 1.102659416508286e+02
+, rho = 1.25N = 400, D = 6.000000000000000, RMS = 1.010294025534989e+02
+, rho = 1.25N = 450, D = 6.000000000000000, RMS = 1.096556668897670e+02
+, rho = 1.25N = 500, D = 6.000000000000000, RMS = 1.043068711226437e+02
+, rho = 1.25N = 550, D = 6.000000000000000, RMS = 1.166476539616708e+02
+, rho = 1.25N = 600, D = 6.000000000000000, RMS = 8.164220713731572e+01
+, rho = 1.25# 2023-05-10 11:21:26.745367
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x:6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.142436935605310e+02
+, rho = 1.25# 2023-05-10 11:21:28.389601
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x:10",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 10.000000000000000, RMS = 1.013977520401950e+02
+, rho = 1.25# 2023-05-10 11:21:30.293342
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x:50",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 50.000000000000000, RMS = 1.112712924949973e+02
+, rho = 1.25# 2023-05-10 11:21:32.104498
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x:100",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 100.000000000000000, RMS = 1.111216459474936e+02
+, rho = 1.25# 2023-05-10 15:16:19.931067
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2023-05-10 15:16:46.360989
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 9.618648431213188e+01
+, rho = 1.25# 2023-05-20 19:09:05.267236
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-20 19:10:19.306034
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-20 19:11:43.889344
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-20 19:13:39.800903
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-20 19:16:38.115230
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-20 19:23:01.948161
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.252884978292951e+02
+, rho = 0.1# 2023-05-20 19:23:02.681943
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.2,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.191997300100458e+02
+, rho = 0.2# 2023-05-20 19:23:03.441178
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.3,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.130850641775045e+02
+, rho = 0.3# 2023-05-20 19:23:04.233616
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.4,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.026969198415889e+02
+, rho = 0.4# 2023-05-20 19:23:05.004570
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.5,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.085902564556154e+02
+, rho = 0.5# 2023-05-20 19:23:05.825220
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.6,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.758493709929085e+01
+, rho = 0.6# 2023-05-20 19:23:06.573658
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.7,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.049775128869775e+02
+, rho = 0.7# 2023-05-20 19:23:07.308543
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.8,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.103581503329813e+02
+, rho = 0.8# 2023-05-20 19:23:08.085331
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.9,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.757227531842480e+01
+, rho = 0.9# 2023-05-20 19:23:08.921679
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.291022803917292e+02
+, rho = 1# 2023-05-20 19:23:09.634027
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.831986560971013e+01
+, rho = 1.1# 2023-05-20 19:23:10.315884
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-20 19:27:33.634764
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.252884978292951e+02
+, rho = 0.1# 2023-05-20 19:27:34.572218
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.2,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.191997300100458e+02
+, rho = 0.2# 2023-05-20 19:27:35.282989
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.3,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.130850641775045e+02
+, rho = 0.3# 2023-05-20 19:27:36.044273
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.4,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.026969198415889e+02
+, rho = 0.4# 2023-05-20 19:27:36.762170
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.5,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.085902564556154e+02
+, rho = 0.5# 2023-05-20 19:27:37.453189
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.6,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.758493709929085e+01
+, rho = 0.6# 2023-05-20 19:27:38.157423
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.7,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.049775128869775e+02
+, rho = 0.7# 2023-05-20 19:27:38.932097
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.8,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.103581503329813e+02
+, rho = 0.8# 2023-05-20 19:27:39.654382
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.9,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.757227531842480e+01
+, rho = 0.9# 2023-05-20 19:27:40.403492
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.291022803917292e+02
+, rho = 1# 2023-05-20 19:27:41.104672
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.831986560971013e+01
+, rho = 1.1# 2023-05-20 19:27:41.876621
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-22 11:36:32.837965
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-22 11:38:25.132282
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-22 11:43:36.680085
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-05-22 11:44:32.190320
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.252884978292951e+02
+, rho = 0.1# 2023-05-22 11:44:32.974185
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.2,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.191997300100458e+02
+, rho = 0.2# 2023-05-22 11:44:33.649278
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.3,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.130850641775045e+02
+, rho = 0.3# 2023-05-22 11:44:34.327908
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.4,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.026969198415889e+02
+, rho = 0.4# 2023-05-22 11:44:35.021990
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.5,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.085902564556154e+02
+, rho = 0.5# 2023-05-22 11:44:35.690970
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.6,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.758493709929085e+01
+, rho = 0.6# 2023-05-22 11:44:36.372937
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.7,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.049775128869775e+02
+, rho = 0.7# 2023-05-22 11:44:37.030101
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.8,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.103581503329813e+02
+, rho = 0.8# 2023-05-22 11:44:37.731342
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 0.9,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.757227531842480e+01
+, rho = 0.9# 2023-05-22 11:44:38.420324
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.291022803917292e+02
+, rho = 1# 2023-05-22 11:44:39.096043
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.1,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.831986560971013e+01
+, rho = 1.1# 2023-05-22 11:44:39.806278
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 8.690168930584231e+01
+, rho = 1.25# 2023-10-26 14:36:08.586112
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.129131297649970e+02
+, rho = 1.25# 2023-10-26 16:08:15.691314
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.129131297649970e+02
+, rho = 1.25# 2024-05-05 17:56:05.896777
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.129131297649970e+02
+, rho = 1.25# 2024-05-06 16:02:26.588405
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.129131297649970e+02
+, rho = 1.25# 2024-05-07 09:07:08.486485
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.129131297649970e+02
+, rho = 1.25# 2025-05-06 09:34:26.427014
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2025-05-06 09:38:19.302959
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2025-05-06 09:38:47.470321
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+# 2025-05-06 09:39:15.540032
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 1,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.047517293021081e+02
+, rho = 1.25# 2025-05-06 09:40:39.436300
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 400,
+        "step": 100,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.047517293021081e+02
+, rho = 1.25N = 400, D = 6.000000000000000, RMS = 8.210087242027829e+01
+, rho = 1.25# 2025-05-06 09:41:56.648395
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 400,
+        "step": 100,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.047517293021081e+02
+, rho = 1.25N = 400, D = 6.000000000000000, RMS = 8.210087242027829e+01
+, rho = 1.25# 2025-05-06 09:42:38.840266
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 400,
+        "step": 100,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.047517293021081e+02
+, rho = 1.25N = 400, D = 6.000000000000000, RMS = 8.210087242027829e+01
+, rho = 1.25# 2025-05-06 09:43:33.689500
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 400,
+        "end_node": 400,
+        "step": 100,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 400, D = 6.000000000000000, RMS = 8.210087242027829e+01
+, rho = 1.25# 2025-05-06 09:45:10.013638
+{
+    "input": {
+        "nodes": 3,
+        "functions": [
+            "lambda x: xs",
+            "lambda y: ys",
+            "lambda z: zs"
+        ],
+        "length": 6250
+    },
+    "reservoir": {
+        "start_node": 300,
+        "end_node": 300,
+        "step": 100,
+        "degree_function": "lambda x: 6",
+        "sigma": 0.1,
+        "bias": 0.0,
+        "spectral_radius": 1.25,
+        "leakage_rate": 1.0,
+        "regression_parameter": 5e-06
+    },
+    "output": {
+        "nodes": 3
+    },
+    "training": {
+        "init": 0,
+        "train": 5000,
+        "test": 1250,
+        "error": 1250
+    }
+}
+N = 300, D = 6.000000000000000, RMS = 1.047517293021081e+02
+, rho = 1.25
